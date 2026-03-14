@@ -155,3 +155,4 @@ app_ui <- page_navbar(
   # AI tab placeholder (to be added later)
   nav_panel("AI Assistant", p("Coming soon"), value = "ai_assistant")
 )
+ui <- app_ui
