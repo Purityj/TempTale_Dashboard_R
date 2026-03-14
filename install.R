@@ -1,0 +1,9 @@
+install.packages(c(
+  "shiny",
+  "bslib",
+  "dplyr",
+  "readr",
+  "plotly",
+  "DT",
+  "lubridate"
+))
