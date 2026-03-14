@@ -65,7 +65,9 @@ In the RStudio console, run:
 ```r
 shiny::runApp()
 ```
+
 Or navigate to app.R and click on "Run App" button.
+
 ---
 
 ## Project Structure
